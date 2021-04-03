@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home</title>
+        <link href="https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@900&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="/casaVerde/css/base/base.css">
+        <link rel="stylesheet" href="/casaVerde/css/components/botao.css">
+        <link rel="stylesheet" href="/casaVerde/css/components/input.css">
+        <link rel="stylesheet" href="/casaVerde/css/components/cartao.css">
+        <link rel="stylesheet" href="/casaVerde/css/components/item.css">
+        <link rel="stylesheet" href="/casaVerde/css/components/produto.css">
+        <link rel="stylesheet" href="/casaVerde/css/components/video.css">
+        <link rel="stylesheet" href="/casaVerde/css/components/cabecalho.css">
+        <link rel="stylesheet" href="/casaVerde/css/components/rodape.css">
+        
+    </head>
+
+    <body>
+
+        <!-- Estrutura do Cabeçalho -->
+        <header class="container cabecalho">
+            <img src="../casaVerde/img/logo.svg" alt="Logo" class="cabecalho__logo">
+            <a href="">
+                <img src="../casaVerde/img/icones/carrinho.svg" alt="Ícone do Carrinho" class="cabecalho__carrinho">
+            </a>
+        </header>
+
+        <button class="botao" >Assinar Newsletter</button>
+        <input type="text" class="input input__icone input__email" placeholder="Insira seu email">
+        <button class="botao botao__alternativo">Botao alternativo</button>
+
+        <article class="cartao">
+            <h2 class="titulo alinhamento__meio">Como conseguir
+                <span class="titulo__destaque">minha planta</span>
+            </h2>
+            <ul class="lista-item">
+                <li class="item">
+                    <span class="item__icone item__icone--cursor"></span>
+                    <p>Escolha suas plantas</p>
+                </li>
+                <li class="item">
+                    <span class="item__icone item__icone--carrinho"></span>
+                    <p>Faça seu pedido</p>
+                </li>
+                <li class="item">
+                    <span class="item__icone item__icone--caminhao"></span>
+                    <p>Aguarde na sua casa</p>
+                </li>
+            </ul>
+        </article>
+       
+        <article class="produto">
+            <img src="../casaVerde/img/produto-01.png" alt="Foto do Produto" class="produto__imagem">
+            <div class="produto__conteudo">
+                <h3 class="produto__titulo titulo__destaque">Ajuga Reptans</h3>
+                <p class="produto__preco">R$20,00</p>
+                <a href="" class="produto__comprar">Comprar<span class="produto__comprar--icone"></span></a>
+            </div>
+        </article>
+
+
+        <article class="cartao-de-video">
+            <div class="cartao-de-video__video">
+                <img src="https://picsum.photos/278/252" alt="Banner do video">
+            </div>
+                <h3 class="cartao-de-video__titulo">Video XYZ</h3>
+                <p>Publicado em marco 2021</p>
+        </article>
+
+        <footer class="container rodape">
+            <img src="../casaVerde/img/logo.svg" alt="" class="rodape__logo">
+            <ul class="rodape__social">
+                <li><a href="#" class="rodape__social-midia" title="Facebook"><img src="../casaVerde/img/icones/facebook.svg"></a></li>
+                <li><a href="#" class="rodape__social-midia" title="Twitter"><img src="../casaVerde/img/icones/twitter.svg"></a></li>
+                <li><a href="#" class="rodape__social-midia" title="Instagram"><img src="../casaVerde/img/icones/instagram.svg"></a></li>
+            </ul>
+            <address class="rodape__unidade texto">
+                <span class="rodape__unidade-titulo">Rio de Janeiro</span>
+                teste
+            </address>
+
+            <address class="rodape__unidade texto">
+                <span class="rodape__unidade-titulo">Sao Paulo</span>
+                teste
+            </address>
+        </footer>
+    </body>
+</html>
