@@ -1,8 +1,8 @@
-# CSS Components Tutorial
+# CSS  Tutorial
 
-## Page using Components
+## Page using CSS
 
-![](https://github.com/haradwaith03/FrontEndTutorials/blob/main/casaVerde/casaVerde.gif)
+![](https://github.com/haradwaith03/FrontEndTutorials/blob/main/CSS_Grid/css_gif.gif)
 
 * Definindo o layout base
 * Criando o layout da seção de destaque
