@@ -10,9 +10,9 @@
 
 ![](https://github.com/haradwaith03/FrontEndTutorials/blob/main/casaVerde/casaVerde.gif)
 
-## 📐 ![3_Flexbox](https://github.com/haradwaith03/FrontEndTutorials/tree/main/casaVerde)
-* Flexbox: Posicione elementos na tela
+## 📐 ![3_Flexbox](https://github.com/haradwaith03/FrontEndTutorials/tree/main/Flexbox)
+* Flexbox: Posicionando elementos na tela
 
-![](https://github.com/haradwaith03/FrontEndTutorials/blob/main/casaVerde/casaVerde.gif)
+![]()
 
 
