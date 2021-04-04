@@ -13,6 +13,6 @@
 ## 📐 ![3_Flexbox](https://github.com/haradwaith03/FrontEndTutorials/tree/main/Flexbox)
 * Flexbox: Posicionando elementos na tela
 
-![]()
+![](https://github.com/haradwaith03/FrontEndTutorials/blob/main/Flexbox/flexbox-page_gif.gif)
 
 
