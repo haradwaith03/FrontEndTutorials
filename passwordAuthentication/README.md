@@ -10,6 +10,6 @@
 * Password Authentication 
 
 ### How to run
-* node index.js
+* `node index.js`
 
 Source: https://cursos.alura.com.br/course/javascript-polimorfismo
