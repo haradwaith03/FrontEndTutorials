@@ -13,8 +13,3 @@
 * `node index.js`
 
 Source: https://cursos.alura.com.br/course/javascript-polimorfismo
-
-* node index.js
-
-Source: https://cursos.alura.com.br/course/javascript-polimorfismo
-
