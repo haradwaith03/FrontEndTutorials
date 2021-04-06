@@ -15,4 +15,6 @@
 
 ![](https://github.com/haradwaith03/FrontEndTutorials/blob/main/Flexbox/flexbox-page_gif.gif)
 
+## 🔑 ![4_Javascript: Interfaces and Inheritance in Object-Oriented programming](https://github.com/haradwaith03/FrontEndTutorials/tree/main/passwordAuthentication)
+* Javascript concepts
 
