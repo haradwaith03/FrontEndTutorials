@@ -1,13 +1,13 @@
-# CSS  Tutorial
+# Bootstrap
 
-## Page using CSS
+## Single-page responsiva
 
-![](https://github.com/haradwaith03/FrontEndTutorials/blob/main/CSS_Grid/css_gif.gif)
+![](https://github.com/haradwaith03/FrontEndTutorials/blob/main/singlePageBootstrap/Demo/top.gif)
 
-* Definindo o layout base
-* Criando o layout da seção de destaque
-* Estilizando a seção de populares
-* Estilizando o cabeçalho, menu e rodapé
-* Deixando o site responsivo 
+* Framework Bootstrap 3.
+* Desenvolvimento front-end mobile first para que as aplicações sejam responsivas, simples e funcionais independente do dispositivo.
+* Uso de thumbnails, panels, jumbotron, carosel e navbar do bootstrap.
 
-Source: https://cursos.alura.com.br/course/css-grid-layout
+
+
+Source: https://cursos.alura.com.br/course/bootstrap-criacao-single-page-responsiva
